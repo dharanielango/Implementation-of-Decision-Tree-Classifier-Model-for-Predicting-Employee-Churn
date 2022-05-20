@@ -62,10 +62,15 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ### Head using LabelEncoder
 ![decision tree classifier model](3.png)
 
-### Accuracy
+### Accuracy with entropy
 ![decision tree classifier model](5.png)
-### Predict
+### Predict with entropy
 ![decision tree classifier model](6.png)
+### Accuracy without entropy
+![decision tree classifier model](4.png)
+### Predict without entropy
+![decision tree classifier model](9.png)
+
 
 
 
